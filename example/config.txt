@@ -1,0 +1,2 @@
+Prefix plugins/MapLongShort/example/
+Plugin MapLongShort inputfile parameters.maplongshort.txt outputfile LR_SR
